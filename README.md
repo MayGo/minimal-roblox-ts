@@ -1,6 +1,4 @@
-# Roblox for React and TS Developers
-
-## Roblox for React and TypeScript Developers
+# Roblox for React and TypeScript Developers
 
 Hello, fellow React devs. This guide shows how to reach millions of Roblox players using your existing React and TypeScript skills, directly from your usual editor (VS Code, Cursor, etc.). Whether you’re building a game for your kids, friends, a community, or just for fun, this walkthrough will get you from zero to a playable experience.
 
