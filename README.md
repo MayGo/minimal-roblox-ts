@@ -125,6 +125,8 @@ Then:
 - Open Roblox Studio and your game/place.
 - Open the Rojo plugin and press Connect to attach it to your `rojo serve` session.
 
+![Rojo connection dialog](images/rojo.png)
+
 Now file changes in your editor will sync live into Studio.
 
 ---
@@ -255,6 +257,8 @@ Playtest again and watch the Output window. When you click the button, you shoul
 Pinging server...  -  Client - App:7
 Ping received from client: MayGoRblx  -  Server - main:7
 ```
+
+![IDE and Roblox Studio showing the working application](images/ide-and-roblox.png)
 
 At this point, you have a working end-to-end interaction from React UI to Roblox server logic.
 
